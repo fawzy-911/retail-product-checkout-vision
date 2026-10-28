@@ -1,0 +1,8 @@
+ultralytics
+kagglehub
+pandas
+numpy
+matplotlib
+PyYAML
+Pillow
+scikit-learn

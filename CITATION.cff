@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite it as a software project and cite the RPC dataset paper separately."
+title: "Retail Product Checkout Vision"
+type: software
+authors:
+  - family-names: Fawzy
+    given-names: Mohamed
+repository-code: "https://github.com/fawzy-911/retail-product-checkout-vision"
+url: "https://github.com/fawzy-911/retail-product-checkout-vision"
+keywords:
+  - computer vision
+  - object detection
+  - retail
+  - checkout
+  - YOLO

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets and generated artifacts
+data/
+datasets/
+retail_product_checkout/
+runs/
+weights/
+*.pt
+*.onnx
+*.engine
+*.cache
+
+# Kaggle outputs
+kaggle.json
+submission.csv
+*.log
